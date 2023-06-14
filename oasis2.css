@@ -1,0 +1,32 @@
+.Main{
+    text-align: center;
+    color:aqua;
+    background-color: blueviolet;
+    font-size: 44px;
+   
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  footer{
+    background-color: darkgray;
+    color: black;
+    
+  }
